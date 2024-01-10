@@ -3,3 +3,10 @@
 .ipython
 .local
 .DS_Store
+
+# IDE files
+.idea
+
+# Python aux files
+__pycache__
+*.pyc
