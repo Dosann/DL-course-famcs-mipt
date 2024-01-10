@@ -1,0 +1,5 @@
+# Jupyter aux files
+.ipynb_checkpoints
+.ipython
+.local
+.DS_Store
